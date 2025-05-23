@@ -96,12 +96,8 @@ src/
 #### Para modificar a API utilizada, edite o arquivo App.tsx e altere a URL base:
 
 #### typescript
-
+```ts
 const API_URL = "https://jsonplaceholder.typicode.com/users";
+```
 
-git init
-git add README.md
-git commit -m "primeiro commit"
-git branch -M main
-git remote add origin https://github.com/RobertSouDev/UserList.git
-git push -u origin main
+
